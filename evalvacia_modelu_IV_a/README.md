@@ -1,4 +1,4 @@
-Evalvácia modelu IV a)
+# Evalvácia modelu IV a)
 
 Porovnajte pravdepodobnosti pre študentov pomocou Wilcoxonovho párového testu.
 
